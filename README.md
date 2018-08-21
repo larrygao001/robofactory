@@ -10,7 +10,7 @@
 
 ## Introduction
 
-Robofactory is a React based web application that implements a quick search funtion on Robots.
+Robofactory is a React based web application where you can quick search for a Robot by name.
 ![Robofactory page view](./robots.png)
 
 Build with [Create React App](https://github.com/facebook/create-react-app).
