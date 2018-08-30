@@ -15,7 +15,7 @@ Robofactory is a React based web application where you can quick search for a Ro
 
 Build with [Create React App](https://github.com/facebook/create-react-app).
 
-[Click here](https://robogenerator.herokuapp.com/) for online preview.
+[Click here](https://ambitiousbird.github.io/robofactory/) for online preview.
 
 ##### Tech stack
 ``` Webpack + React + Redux + Heroku ```
